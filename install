@@ -7,7 +7,7 @@ HOMEBREW_PREFIX = Pathname.new '/usr/local'
 
 # Bang is nested inside Homebrew.
 BANG_PREFIX = HOMEBREW_PREFIX.join('Bang')
-BANG_REPO = 'https://github.com/osxuniverse/bang'
+BANG_REPO = 'https://github.com/osx/bang'
 
 # The core galaxy.
 GALAXY_ANDROMEDA = 'osxuniverse/andromeda'
