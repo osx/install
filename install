@@ -10,7 +10,7 @@ BANG_PREFIX = HOMEBREW_PREFIX.join('Bang')
 BANG_REPO = 'https://github.com/osx/bang'
 
 # The core galaxy.
-GALAXY_ANDROMEDA = 'osxuniverse/andromeda'
+GALAXY_ANDROMEDA = 'osx/andromeda'
 
 module Tty extend self
   def blue; bold 34; end
